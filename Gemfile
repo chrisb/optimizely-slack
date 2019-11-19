@@ -1,0 +1,13 @@
+source "https://rubygems.org"
+
+gem "json"
+gem "faraday"
+gem "faraday_middleware"
+gem "awesome_print"
+gem "activesupport", require: "active_support/all"
+gem "dotenv", require: "dotenv/tasks"
+gem "rake"
+gem "slack-ruby-client"
+gem "activemodel", require: "active_model"
+gem "colored"
+gem "byebug"
